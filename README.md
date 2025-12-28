@@ -29,7 +29,7 @@
 
 ### 🌐 My Portfolio
 <p align="center">
-  <a href="https://creative-showcase.vercel.app/" target="_blank">
+  <a href="https://gopal-krishana.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -38,13 +38,13 @@
 
 ### 📩 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/gaurav2k50/" target="_blank">
+  <a href="https:www.linkedin.com/in/gopal53" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="mailto:gaurav2k50@gmail.com" target="_blank">
+  <a href="mailto:chanchalgopalkrishna42@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://creative-showcase.vercel.app/" target="_blank">
+  <a href="https://gopal-krishana.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
