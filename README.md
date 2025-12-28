@@ -38,7 +38,7 @@
 
 ### 📩 Connect with me
 <p align="center">
-  <a href="https:www.linkedin.com/in/gopal53" target="_blank">
+  <a href="https://www.linkedin.com/in/gopal53/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="mailto:chanchalgopalkrishna42@gmail.com" target="_blank">
