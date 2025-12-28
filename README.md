@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
+<h1 align="center">Hi 👋, I'm Gopal Krishna Chanchal</h1>
 <p align="center">
-  🚀 Full Stack Developer (MERN / Next.js)<br/>
-  💻 2+ Years of Professional Experience<br/>
+  🚀 Full Stack Developer<br/>
+  💻 1+ Years of Professional Experience<br/>
   🏢 Full Stack Developer at Poliarc Services Pvt. Ltd.<br/>
   📍 New Delhi, India
 </p>
@@ -16,17 +16,13 @@
 ---
 
 ### 💼 Professional Experience
-• Full Stack Developer – Poliarc Services Pvt. Ltd.  
-• Freelance Full Stack Developer  
-• MERN Stack Developer – CITC The Hub of IT Pvt. Ltd.
-
+• Full Stack Developer – Poliarc Services Pvt. Ltd. 
 ---
 
 ### 🧠 Core Skills
 - **Frontend:** React.js, Next.js, Redux Toolkit, Tailwind CSS, Bootstrap  
 - **Backend:** Node.js, Express.js, REST APIs, JWT Authentication, Socket.IO  
-- **Databases:** MySQL, MongoDB  
-- **Cloud & DevOps:** AWS (EC2, S3, IAM), Docker, PM2, Cloudinary, MilesWeb  
+- **Databases:** MySQL, MongoDB   
 - **Tools:** Git, GitHub, Postman, VS Code, Figma, Jira
 
 ---
