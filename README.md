@@ -10,7 +10,7 @@
 
 ### 🚀 Tech Stack & Tools
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,redux,tailwind,bootstrap,html,css,js,ts,mysql,mongodb,aws,docker,git,github,postman,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,redux,tailwind,bootstrap,html,css,js,ts,mysql,mongodb,git,github,postman,figma,vscode" />
 </p>
 
 ---
@@ -20,17 +20,10 @@
 ---
 
 ### 🧠 Core Skills
-- **Frontend:** React.js, Next.js, Redux Toolkit, Tailwind CSS, Bootstrap  
+- **Frontend:** React.js, Redux Toolkit, Tailwind CSS, Bootstrap  
 - **Backend:** Node.js, Express.js, REST APIs, JWT Authentication, Socket.IO  
 - **Databases:** MySQL, MongoDB   
 - **Tools:** Git, GitHub, Postman, VS Code, Figma, Jira
-
----
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sde-gaurav&theme=tokyonight&hide_border=false" />
-</p>
 
 ---
 
